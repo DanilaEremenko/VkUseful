@@ -1,0 +1,12 @@
+{
+  "api": {
+    "login": "you_email@mail.ru",
+    "password": "your password",
+    "token": null
+  },
+  "group_id": 11111,
+  "threshold": 9,
+  "bad_group_name": "ПИАР МАЙНКРАФТ MINECRAFT САМП SAMP RUST CSGO 1.6",
+  "exception_groups": [
+  ]
+}
